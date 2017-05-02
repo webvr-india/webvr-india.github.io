@@ -123,7 +123,7 @@ Now let’s add this whole script as a source to an entity
 ```
 An entity is created with the src attribute set to the script tag id so that it can be parsed and appended to the current entity.
 
-You can use your favorite VR device to view this scene or if you don’t have one I would suggest [Google Cardboard](https://vr.google.com/cardboard/) which is an awesome piece of tech for VR to reach masses. Here is the [source code][https://github.com/tushararora/tushararora.github.io/blob/master/rubiks-cube/index.html]. You can also take a look at the [demo](http://tushararora.github.io/rubiks-cube/).
+You can use your favorite VR device to view this scene or if you don’t have one I would suggest [Google Cardboard](https://vr.google.com/cardboard/) which is an awesome piece of tech for VR to reach masses. Here is the [source code](https://github.com/tushararora/tushararora.github.io/blob/master/rubiks-cube/index.html). You can also take a look at the [demo](http://tushararora.github.io/rubiks-cube/).
 
 I’ll be coming back with some awesome a-frame stuff.
 
