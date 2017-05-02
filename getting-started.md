@@ -14,7 +14,7 @@ permalink: /getting-started/
   * [Twitter](https://twitter.com/mozillavr)
   * [Github](https://github.com/webvr-india/)
   * [Slack]()
-4. File an [issue](https://github.com/webvr-india/volunteer-contributions/issues/new) to report your contributions and become a superstars :-D. [(read more about it)](http://github.com/webvr-india/volunteer-contributions/)
+4. File an [issue](https://github.com/webvr-india/volunteer-contributions/issues/new) to report your contributions and become a superstar :-D. [(read more about it)](http://github.com/webvr-india/volunteer-contributions/)
 
 Additional resources:
   How to publish your webpage on github using github pages
