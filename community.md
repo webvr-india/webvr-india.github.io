@@ -10,7 +10,6 @@ permalink: /community/
 4. Monthly activities (meetings, volunteer contribution reporting etc)
 5. [Super hacker's contest](https://github.com/webvr-india/activities/issues/17)
 6. [Meeting notes](https://github.com/webvr-india/activities/tree/master/meetings)
-
 7. How to reporting your contributions
     
     Go to the issues, and put your contributions in the respective open issue. We create three issues every month for following purpose :
