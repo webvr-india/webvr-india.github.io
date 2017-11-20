@@ -5,7 +5,7 @@ permalink: /getting-started/
 ---
 
 1. Learn about WebVR & A-Frame [links to resources to read about these]
-  * [A-Frame](https://aframe.io/docs/0.5.0/introduction/)
+  * [A-Frame](https://aframe.io/docs/0.7.0/introduction/)
   * [Interactive Course for WebVR](https://aframe.io/aframe-school/#/)
 
 2. Create first A-Frame scene. You can [refer this document.](https://github.com/webvr-india/activities/blob/master/getting-started.md)
