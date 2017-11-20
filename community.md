@@ -4,7 +4,7 @@ title: Community
 permalink: /community/
 ---
 
-* Banner on top [showing thumbnail of all superstars like] (https://media.licdn.com/media/AAEAAQAAAAAAAAuuAAAAJDNkODM5NDllLTM1OGYtNDk4YS1hNmFkLTJlM2E4YWZhNGJhNg.png)
+* Banner on top [showing thumbnail of all superstars like](https://media.licdn.com/media/AAEAAQAAAAAAAAuuAAAAJDNkODM5NDllLTM1OGYtNDk4YS1hNmFkLTJlM2E4YWZhNGJhNg.png)
 * About WebVR-India community and history(how it started in pune & other stuff). May be using a picture.
 * [Super hacker's contest](https://github.com/webvr-india/activities/issues/17)
 * [Monthly events](https://webvr-india.github.io/community/events) 
